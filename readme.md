@@ -1,10 +1,28 @@
-# Project Overview
-This is my first attempt at creating a personal portfolio webpage using HTML. The webpage has sections introducing a cat name CodeSpace Cat, showcasing his skills, displaying a cat-themed project portfolio, and offering a contact form.
+
+# Learning Reflections README 
+
+## **6.15 CodeSpace Pets Instagram Profile Project**
+
+### Overview
 
 
-# Presentation
+### Reflections
 
-#Demonstrating
+#### Areas of Mastery
 
-## Loom Presentation Link:
-https://www.loom.com/share/22374f44b8d74386addf54b7d79ad975?sid=1e6f4298-8fff-4b7b-90ba-b3b6e4126b77
+- **CSS Layout Techniques**: 
+- **Responsive Design**: 
+- **Styling Elements**: 
+
+#### Challenges Faced
+
+- **Responsive Design for Smaller Screens**:
+- **Hover and Focus Effects**: 
+
+#### Areas for Improvement
+
+- **Advanced CSS Properties**: 
+- **Code Optimization**: 
+- **Creative Design Choices**:
+
+#### Overall Learning Experience
